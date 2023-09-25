@@ -1,0 +1,69 @@
+.icon-delete,
+.icon-edit {
+  cursor: pointer;
+}
+
+.icon-delete {
+  filter: brightness(0) saturate(100%) invert(16%) sepia(71%) saturate(6949%)
+    hue-rotate(358deg) brightness(106%) contrast(120%);
+}
+
+.icon-edit {
+  filter: brightness(0) saturate(100%) invert(8%) sepia(100%) saturate(7476%)
+    hue-rotate(248deg) brightness(96%) contrast(143%);
+}
+
+.accueil {
+  width: 100%;
+  height: calc(100vh - 56px);
+
+  background-color: #f9f9f9;
+
+  position: relative;
+}
+
+.accueil .bg {
+  width: 100%;
+  height: 100%;
+}
+
+.accueil .bg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.accueil .content {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+
+  width: 100%;
+  height: 100%;
+
+  background-color: rgba(0, 0, 0, 0.701);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.accueil .content h1 {
+  font-size: 60px;
+  color: #f96f5c;
+}
+
+.accueil .content h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.accueil .content p {
+  font-size: 20px;
+  margin-bottom: 20px;
+  width: 60%;
+  text-align: justify;
+  color: white;
+}

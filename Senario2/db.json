@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "nom": "Maiores labore dolor",
+      "description": "Deserunt consequat ",
+      "prix": "49",
+      "categ": "Asia",
+      "id": 1
+    },
+    {
+      "nom": "Est consectetur aute",
+      "description": "Earum fuga Est debi",
+      "prix": "78",
+      "categ": "USA",
+      "id": 5
+    },
+    {
+      "nom": "Ullam in dolor quisq",
+      "description": "Unde quaerat volupta",
+      "prix": "29",
+      "categ": "USA",
+      "id": 6
+    }
+  ]
+}

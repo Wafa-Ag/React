@@ -1,0 +1,12 @@
+npx create-react-app scenar1
+cd scenar1/
+npm start
+
+npm install bootstrap
+npm i react-router
+npm i react-router-dom
+npm start
+npm i bootstrap-icons
+
+https://getbootstrap.com/docs/5.3/components
+https://getbootstrap.com/docs/5.3/forms/overview/#overview
